@@ -1,10 +1,10 @@
 # Introduction
 
-Welcome to the sandpit wiki! 
+Welcome to The SandPit! 
 
-WARNING!! This is a SandPit!! Things will get messy!!
+WARNING!! This is a SandPit!! Things will get messy, and should always be fun!!
 
-This is a NotePad / ScratchPad / Sandbox / LitterBox!! Kids and kittens play here. Space for quick testing, and temp notes. Do not get too attached to anything here, and do not take it too serious. Some templates might be created for short- and medium-term experimentation. 
+The SandPit is a NotePad / ScratchPad / Sandbox / LitterBox!! Kids, kittens and dogs play and work here. The space is intended for quick testing, and temp notes/scribbles. It might include some reminders. Some templates might be created for short- and medium-term experimentation. Do not get too attached to anything here, and do not take it too serious.  
 
 Again: welcome. The SandPit is a Safe and Fun place!! 
 
