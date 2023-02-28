@@ -1,6 +1,7 @@
 //==========================================
 // A trivial little C program 
 // Prints input arguments 
+// >> gcc main.c -o runme
 //==========================================
 
 #include <stdio.h>
